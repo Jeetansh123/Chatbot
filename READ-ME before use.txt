@@ -1,0 +1,14 @@
+THis is a general hatbot programmed to answer various responses such as :-
+Hello
+Hi!
+How are you ?
+I'm good
+I'm a bit sad
+I'm fine etc
+and also play rock paper scissors with you
+
+
+thank you 
+Made by Jeetansh Dhiman
+X-H
+Roll no.25
